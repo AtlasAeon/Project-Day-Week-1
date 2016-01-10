@@ -1,0 +1,12 @@
+c:\users\we can code it\documents\visual studio 2015\Projects\formatProjectDay1Challenge1\formatProjectDay1Challenge1\bin\Debug\formatProjectDay1Challenge1.exe.config
+c:\users\we can code it\documents\visual studio 2015\Projects\formatProjectDay1Challenge1\formatProjectDay1Challenge1\bin\Debug\formatProjectDay1Challenge1.exe
+c:\users\we can code it\documents\visual studio 2015\Projects\formatProjectDay1Challenge1\formatProjectDay1Challenge1\bin\Debug\formatProjectDay1Challenge1.pdb
+c:\users\we can code it\documents\visual studio 2015\Projects\formatProjectDay1Challenge1\formatProjectDay1Challenge1\obj\Debug\formatProjectDay1Challenge1.csprojResolveAssemblyReference.cache
+c:\users\we can code it\documents\visual studio 2015\Projects\formatProjectDay1Challenge1\formatProjectDay1Challenge1\obj\Debug\formatProjectDay1Challenge1.exe
+c:\users\we can code it\documents\visual studio 2015\Projects\formatProjectDay1Challenge1\formatProjectDay1Challenge1\obj\Debug\formatProjectDay1Challenge1.pdb
+C:\Users\We Can Code IT\Documents\Visual Studio 2015\Projects\Project Day Week 1\formatProjectDay1Challenge1\formatProjectDay1Challenge1\bin\Debug\formatProjectDay1Challenge1.exe.config
+C:\Users\We Can Code IT\Documents\Visual Studio 2015\Projects\Project Day Week 1\formatProjectDay1Challenge1\formatProjectDay1Challenge1\obj\Debug\formatProjectDay1Challenge1.exe
+C:\Users\We Can Code IT\Documents\Visual Studio 2015\Projects\Project Day Week 1\formatProjectDay1Challenge1\formatProjectDay1Challenge1\obj\Debug\formatProjectDay1Challenge1.pdb
+C:\Users\We Can Code IT\Documents\Visual Studio 2015\Projects\Project Day Week 1\formatProjectDay1Challenge1\formatProjectDay1Challenge1\bin\Debug\formatProjectDay1Challenge1.exe
+C:\Users\We Can Code IT\Documents\Visual Studio 2015\Projects\Project Day Week 1\formatProjectDay1Challenge1\formatProjectDay1Challenge1\bin\Debug\formatProjectDay1Challenge1.pdb
+C:\Users\We Can Code IT\Documents\Visual Studio 2015\Projects\Project Day Week 1\formatProjectDay1Challenge1\formatProjectDay1Challenge1\obj\Debug\formatProjectDay1Challenge1.csprojResolveAssemblyReference.cache

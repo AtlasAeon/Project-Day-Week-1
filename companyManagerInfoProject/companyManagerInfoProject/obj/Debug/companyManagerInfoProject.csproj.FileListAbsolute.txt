@@ -1,0 +1,9 @@
+c:\users\we can code it\documents\visual studio 2015\Projects\companyManagerInfoProject\companyManagerInfoProject\bin\Debug\companyManagerInfoProject.exe.config
+c:\users\we can code it\documents\visual studio 2015\Projects\companyManagerInfoProject\companyManagerInfoProject\bin\Debug\companyManagerInfoProject.exe
+c:\users\we can code it\documents\visual studio 2015\Projects\companyManagerInfoProject\companyManagerInfoProject\bin\Debug\companyManagerInfoProject.pdb
+c:\users\we can code it\documents\visual studio 2015\Projects\companyManagerInfoProject\companyManagerInfoProject\obj\Debug\companyManagerInfoProject.csprojResolveAssemblyReference.cache
+c:\users\we can code it\documents\visual studio 2015\Projects\companyManagerInfoProject\companyManagerInfoProject\obj\Debug\companyManagerInfoProject.exe
+c:\users\we can code it\documents\visual studio 2015\Projects\companyManagerInfoProject\companyManagerInfoProject\obj\Debug\companyManagerInfoProject.pdb
+C:\Users\We Can Code IT\Documents\Visual Studio 2015\Projects\Project Day Week 1\managerInfoProject\companyManagerInfoProject\bin\Debug\companyManagerInfoProject.exe.config
+C:\Users\We Can Code IT\Documents\Visual Studio 2015\Projects\Project Day Week 1\managerInfoProject\companyManagerInfoProject\obj\Debug\companyManagerInfoProject.exe
+C:\Users\We Can Code IT\Documents\Visual Studio 2015\Projects\Project Day Week 1\managerInfoProject\companyManagerInfoProject\obj\Debug\companyManagerInfoProject.pdb

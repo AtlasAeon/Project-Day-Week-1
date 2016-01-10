@@ -1,0 +1,6 @@
+c:\users\we can code it\documents\visual studio 2015\Projects\fiveIntegerAddUpProject\fiveIntegerAddUpProject\bin\Debug\fiveIntegerAddUpProject.exe.config
+c:\users\we can code it\documents\visual studio 2015\Projects\fiveIntegerAddUpProject\fiveIntegerAddUpProject\bin\Debug\fiveIntegerAddUpProject.exe
+c:\users\we can code it\documents\visual studio 2015\Projects\fiveIntegerAddUpProject\fiveIntegerAddUpProject\bin\Debug\fiveIntegerAddUpProject.pdb
+c:\users\we can code it\documents\visual studio 2015\Projects\fiveIntegerAddUpProject\fiveIntegerAddUpProject\obj\Debug\fiveIntegerAddUpProject.csprojResolveAssemblyReference.cache
+c:\users\we can code it\documents\visual studio 2015\Projects\fiveIntegerAddUpProject\fiveIntegerAddUpProject\obj\Debug\fiveIntegerAddUpProject.exe
+c:\users\we can code it\documents\visual studio 2015\Projects\fiveIntegerAddUpProject\fiveIntegerAddUpProject\obj\Debug\fiveIntegerAddUpProject.pdb

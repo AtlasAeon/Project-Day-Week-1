@@ -1,0 +1,6 @@
+c:\users\we can code it\documents\visual studio 2015\Projects\escapeCharacters\escapeCharacters\bin\Debug\escapeCharacters.exe.config
+c:\users\we can code it\documents\visual studio 2015\Projects\escapeCharacters\escapeCharacters\bin\Debug\escapeCharacters.exe
+c:\users\we can code it\documents\visual studio 2015\Projects\escapeCharacters\escapeCharacters\bin\Debug\escapeCharacters.pdb
+c:\users\we can code it\documents\visual studio 2015\Projects\escapeCharacters\escapeCharacters\obj\Debug\escapeCharacters.csprojResolveAssemblyReference.cache
+c:\users\we can code it\documents\visual studio 2015\Projects\escapeCharacters\escapeCharacters\obj\Debug\escapeCharacters.exe
+c:\users\we can code it\documents\visual studio 2015\Projects\escapeCharacters\escapeCharacters\obj\Debug\escapeCharacters.pdb

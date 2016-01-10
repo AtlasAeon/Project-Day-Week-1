@@ -1,0 +1,6 @@
+c:\users\we can code it\documents\visual studio 2015\Projects\circleAreaAndPerimeter\circleAreaAndPerimeter\bin\Debug\circleAreaAndPerimeter.exe.config
+c:\users\we can code it\documents\visual studio 2015\Projects\circleAreaAndPerimeter\circleAreaAndPerimeter\bin\Debug\circleAreaAndPerimeter.exe
+c:\users\we can code it\documents\visual studio 2015\Projects\circleAreaAndPerimeter\circleAreaAndPerimeter\bin\Debug\circleAreaAndPerimeter.pdb
+c:\users\we can code it\documents\visual studio 2015\Projects\circleAreaAndPerimeter\circleAreaAndPerimeter\obj\Debug\circleAreaAndPerimeter.csprojResolveAssemblyReference.cache
+c:\users\we can code it\documents\visual studio 2015\Projects\circleAreaAndPerimeter\circleAreaAndPerimeter\obj\Debug\circleAreaAndPerimeter.exe
+c:\users\we can code it\documents\visual studio 2015\Projects\circleAreaAndPerimeter\circleAreaAndPerimeter\obj\Debug\circleAreaAndPerimeter.pdb
